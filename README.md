@@ -17,6 +17,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Verdi-003366?style=for-the-badge&logo=git&logoColor=white" alt="Verdi (VCS Tool)" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
   <img src="https://img.shields.io/badge/FPGA-6A1B9A?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="FPGA" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" alt="Linear" />
@@ -38,6 +39,3 @@
 <br>
 
 ---
-
-*필요하면 연락처, 깃허브 등 개인 소개 추가 가능*  
-궁금한 점 있으면 언제든 물어봐 주세요!  
