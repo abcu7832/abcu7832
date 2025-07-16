@@ -3,7 +3,7 @@
 
 <!-- 소개 -->
 <h3 align="center">👋 ¡Hola! Yo Soy <strong>YounCheol</strong></h3>
-<h4 align="center">I've Majored in Electronic Engineering at Hankuk University of Foreign Language</h4>
+<h4 align="center">I've Majored in Electronic Engineering at Hankuk University of Foreign Studies</h4>
 
 <br>
 
