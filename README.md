@@ -17,7 +17,6 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Verdi-003366?style=for-the-badge&logo=git&logoColor=white" alt="Verdi (VCS Tool)" />
-  <img src="https://img.shields.io/badge/Synopsys-FF6F61?style=for-the-badge&logo=synopsys&logoColor=white" alt="Synopsys" />
   <img src="https://img.shields.io/badge/FPGA-6A1B9A?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="FPGA" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" alt="Linear" />
