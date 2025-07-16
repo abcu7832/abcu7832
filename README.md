@@ -2,8 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=dfbcf7&height=120&section=header&fontSize=50&fontColor=FFFFFF" />
 
 <!-- 소개 -->
-<h3 align="center">👋 Hello, I'm <strong>HeeSik</strong></h3>
-<h4 align="center">I've Majored in Electronic Engineering at Gachon University</h4>
+<h3 align="center">👋 Hello, I'm <strong>YounCheol</strong></h3>
+<h4 align="center">I've Majored in Electronic Engineering at Hankuk University of Foreign Language</h4>
 
 <br>
 
@@ -32,7 +32,7 @@
 | -------- | ---- |
 | 🎮 [**Game Project**](https://github.com/abcu7832/AI-SYSTEMSEMI_DESIGN_2nd/tree/...) | STM32 보드 기반의 게임 프로젝트 (C 언어) |
 | 💡 [**Verilog Project**](https://github.com/abcu7832/AI-SYSTEMSEMI_DESIGN_2nd/tree/...) | Verilog를 활용한 반도체 설계 프로젝트 |
-
+| 💡 [**AI Project**](https://github.com/abcu7832/AI-SYSTEMSEMI_DESIGN_2nd/tree/...) | Python을 활용한 OnDevice AI 프로젝트 |
 <br>
 
 ---
