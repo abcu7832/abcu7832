@@ -36,23 +36,12 @@ Here are some ideas to get you started:
 
 <br>
 
-<!-- 블로그 링크 -->
-<h3 align="center">📚 My Study Logs</h3> 
-<p align="center">
-  <a href="https://www.notion.so/he_sik2-log-222ecb5e8c768050923ccc4934ae517c" target="_blank">
-    <img src="https://img.shields.io/badge/Notion Blog-he_sik2 log-black?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
-</p>
-
-<br/>
-
-
 <h3 align="center">📂 My Projects</h3> 
 
 | 프로젝트 | 설명 |
 |----------|------|
-| 🎮 [**Game Project**](https://github.com/abcu7832/AI-SYSTEM_DESIGN_2nd/01_Embedded_SW/project) | STM32 보드 게임입니다. C |
-| 💡 [**Verilog_Project**](https://github.com/abcu7832/02_Semi_Design/project) | Verilog 설계 프로젝트 |
+| 🎮 [**Game Project**]([https://github.com/abcu7832/AI-SYSTEM_DESIGN_2nd/01_Embedded_SW/project](https://github.com/abcu7832/AI-SYSTEMSEMI_DESIGN_2nd/tree/AI%EC%8B%9C%EC%8A%A4%ED%85%9C%EB%B0%98%EB%8F%84%EC%B2%B4%EC%84%A4%EA%B3%842%EA%B8%B0/01_Embedded_SW/project)) | STM32 보드 게임입니다. C |
+| 💡 [**Verilog_Project**]([https://github.com/abcu7832/02_Semi_Design/project](https://github.com/abcu7832/AI-SYSTEMSEMI_DESIGN_2nd/tree/AI%EC%8B%9C%EC%8A%A4%ED%85%9C%EB%B0%98%EB%8F%84%EC%B2%B4%EC%84%A4%EA%B3%842%EA%B8%B0/02_Semi_Design/project)) | Verilog 설계 프로젝트 |
 
 
 </div>
