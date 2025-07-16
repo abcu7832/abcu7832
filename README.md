@@ -12,8 +12,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Verilog-1E90FF?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" />
   <img src="https://img.shields.io/badge/SystemVerilog-7B68EE?style=for-the-badge&logo=verilog&logoColor=white" alt="SystemVerilog" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Verdi-003366?style=for-the-badge&logo=git&logoColor=white" alt="Verdi (VCS Tool)" />
