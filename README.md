@@ -26,6 +26,8 @@
 <!-- 프로젝트 -->
 <div align="center">📂 My Projects</h3>
 
+
+
 | 프로젝트 | 설명 |
 | -------- | ---- |
 | 🎮 [**Game Project**](https://github.com/abcu7832/AI-SYSTEMSEMI_DESIGN_2nd/tree/...) | STM32 보드 기반의 게임 프로젝트 (C 언어) |
