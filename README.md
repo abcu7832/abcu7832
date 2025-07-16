@@ -24,12 +24,12 @@
 <br>
 
 <!-- 프로젝트 -->
-<h3 align="center">📂 My Projects</h3>
+<div align="center">📂 My Projects</h3>
 
 | 프로젝트 | 설명 |
 | -------- | ---- |
-| 🎮 [**Game Project**](https://github.com/abcu7832/AI-SYSTEMSEMI_DESIGN_2nd/tree/AI%EC%8B%9C%EC%8A%A4%ED%85%9C%EB%B0%98%EB%8F%84%EC%B2%B4%EC%84%A4%EA%B3%842%EA%B8%B0/01_Embedded_SW/project) | STM32 보드 기반의 게임 프로젝트 (C 언어) |
-| 💡 [**Verilog Project**](https://github.com/abcu7832/AI-SYSTEMSEMI_DESIGN_2nd/tree/AI%EC%8B%9C%EC%8A%A4%ED%85%9C%EB%B0%98%EB%8F%84%EC%B2%B4%EC%84%A4%EA%B3%842%EA%B8%B0/02_Semi_Design/project) | Verilog를 활용한 반도체 설계 프로젝트 |
+| 🎮 [**Game Project**](https://github.com/abcu7832/AI-SYSTEMSEMI_DESIGN_2nd/tree/...) | STM32 보드 기반의 게임 프로젝트 (C 언어) |
+| 💡 [**Verilog Project**](https://github.com/abcu7832/AI-SYSTEMSEMI_DESIGN_2nd/tree/...) | Verilog를 활용한 반도체 설계 프로젝트 |
 
 <br>
 
