@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 | 프로젝트 | 설명 |
 |----------|------|
-| 🎮 [**STM32 Game Project**](https://github.com/abcu7832/AI-SYSTEM_DESIGN_2nd/01_Embedded_SW/project) | STM32 보드 기반의 슈팅 게임입니다. JOG 스틱, LCD, 타이머 인터럽트를 활용해 좀비를 제거하는 생존 게임을 구현했습니다.|
+| 🎮 [**Game Project**](https://github.com/abcu7832/AI-SYSTEM_DESIGN_2nd/01_Embedded_SW/project) | STM32 보드 기반의 슈팅 게임입니다. JOG 스틱, LCD, 타이머 인터럽트를 활용해 좀비를 제거하는 생존 게임을 구현했습니다.|
 | 💡 [**Verilog_Project**](https://github.com/abcu7832/02_Semi_Design/project) | Verilog 기반 스마트 계측 시스템입니다. <br>Stopwatch & Watch, HC-SR04 초음파 센서, DHT11 온습도 센서, FIFO & UART 통신을 구현하였습니다. |
 
 
