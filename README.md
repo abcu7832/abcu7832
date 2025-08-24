@@ -31,7 +31,6 @@
 
   | 프로젝트 | 설명 |
   | -------- | ---- |
-  | 🎮 [![**GAME_PROJECT**](https://www.notion.so/Embedded-SW-GAME-PROJECT-259a8b2400b080f7aa48e1d167635b0c?source=copy_link)| STM32 보드 기반의 게임 프로젝트 (C 언어) |
   | 🎮 [![**GAME_PROJECT**](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Embedded-SW-GAME-PROJECT-259a8b2400b080f7aa48e1d167635b0csource=copy_link)| STM32 보드 기반의 게임 프로젝트 (C 언어) |
 
   | 💡 [**Verilog Project**](https://github.com/abcu7832/AI-SYSTEMSEMI_DESIGN_2nd/tree/AI%EC%8B%9C%EC%8A%A4%ED%85%9C%EB%B0%98%EB%8F%84%EC%B2%B4%EC%84%A4%EA%B3%842%EA%B8%B0/02_Semi_Design/project) | Verilog를 활용한 반도체 설계 프로젝트 |
