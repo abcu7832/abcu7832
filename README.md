@@ -35,7 +35,13 @@
   | [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/RISC-V-CPU-RV32I-256a8b2400b080eaae8ffffbcf48dab4?source=copy_link) | RISC-V 32bit CPU 프로젝트 |
   
 ***프로젝트에 대해서 더 궁금한 점이 있으시면 Repository(AI_SYSTEM_SEMI_DESIGN_2nd)로 들어와주세요^^***
+
+
+
 ***Please, come to my Repository(AI_SYSTEM_SEMI_DESIGN_2nd), if you have more questions about these projects.^^***
+
+
+
 ***Por favor, entre en "Repository(AI_SYSTEM_SEMI_DESIGN_2nd)", si tiene mas prejuntas sobre el proyecto.^^***
 </div>
 <br>
