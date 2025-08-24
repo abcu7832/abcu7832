@@ -34,7 +34,7 @@
   |[**AI Project**](https://github.com/abcu7832/AISYSTEMSEMI_DESIGN_2nd/tree/AI%EC%8B%9C%EC%8A%A4%ED%85%9C%EB%B0%98%EB%8F%84%EC%B2%B4%EC%84%A4%EA%B3%842%EA%B8%B0/05_AI_Algorithm%26structure/project) | Python을 활용한 🤖 OnDevice AI 프로젝트 |
   | [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/RISC-V-CPU-RV32I-256a8b2400b080eaae8ffffbcf48dab4?source=copy_link) | RISC-V 32bit CPU 프로젝트 |
   
-***프로젝트에 대해서 더 궁금한 점이 있으시면 Repository(AI_SYSTEM_SEMI_DESIGN_2nd)로 들어가주세요^^***
+***프로젝트에 대해서 더 궁금한 점이 있으시면 Repository(AI_SYSTEM_SEMI_DESIGN_2nd)로 들어와주세요^^***
 
 </div>
 <br>
