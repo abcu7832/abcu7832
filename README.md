@@ -27,7 +27,7 @@
 <div align="center">
   <h3>📂 My Projects</h3>
 
-  | 프로젝트 | 설명 |
+  | 노션링크 | 프로젝트 설명 |
   | -------- | ---- |
   |[![**GAME_PROJECT**](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Embedded-SW-GAME-PROJECT-259a8b2400b080f7aa48e1d167635b0c?source=copy_link)| STM32 보드 기반의  🎮 게임 프로젝트 (C 언어) |
   |[![**Verilog Project**](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Verilog-Project-259a8b2400b080e4b04fd411f230a8a7?source=copy_link) | Verilog를 활용한 반도체 💡 설계 프로젝트 |
