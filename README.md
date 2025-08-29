@@ -21,8 +21,6 @@
   <img src="https://img.shields.io/badge/FPGA-6A1B9A?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="FPGA" />
 </p>
 
----
-
 ## 📂 My Projects
 
 | 프로젝트 | 설명 |
@@ -31,8 +29,6 @@
 | [![Verilog Project](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Verilog-Project-259a8b2400b080e4b04fd411f230a8a7?source=copy_link) | Verilog를 활용한 💡 반도체 설계 프로젝트 |
 | [![AI EXAM SUPERVISOR](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/AI-EXAM-SUPERVISOR-25ba8b2400b080dda526c2b285b25f49?source=copy_link) | Python을 활용한 🤖 OnDevice AI 시험 감독 시스템 |
 | [![RISC-V CPU Project](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/RISC-V-CPU-RV32I-256a8b2400b080eaae8ffffbcf48dab4?source=copy_link) | RISC-V 32bit 🧠 CPU 설계 프로젝트 |
-
----
 
 ## 📌 Note
 
