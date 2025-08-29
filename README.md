@@ -5,7 +5,7 @@
 
 <h3 align="center">👋 ¡Hola! Yo Soy <strong>YounCheol</strong></h3>
 <p align="center">I've majored in Electronic Engineering at Hankuk University of Foreign Studies</p>
-
+<p align="center">I'm enhancing my skill about design engineering through the bootcamp, AI System Semiconduction Design 2nd.</p>
 ---
 
 ## ⚙️ Tech Stack
