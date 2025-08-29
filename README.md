@@ -38,5 +38,5 @@
 ## 📌 Note
 
 > 프로젝트에 대해 더 궁금한 점이 있으시다면  
-> 👉 [**Repository: AI_SYSTEM_SEMI_DESIGN_2nd**](#) 에 방문해주세요!
+> 👉 [https://github.com/abcu7832/AI-SYSTEMSEMI_DESIGN_2nd](#) 에 방문해주세요!
 
