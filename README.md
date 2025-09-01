@@ -35,6 +35,4 @@
 > 프로젝트에 대해 더 궁금한 점이 있으시다면  
 > 👉 [AI-SYSTEMSEMI_DESIGN_2nd Repository](https://github.com/abcu7832/AI-SYSTEMSEMI_DESIGN_2nd) 에 방문해주세요!
 
-> 포트폴리오에 대해 더 궁금한 점이 있으시다면(if you wanna my portfolio),
-> 
-> [![RISC-V CPU Project](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Portfolio-260a8b2400b080deb1cdfe4e26455b75?source=copy_link)
+> 포트폴리오에 대해 더 궁금한 점이 있으시다면(if you wanna my portfolio), [![RISC-V CPU Project](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Portfolio-260a8b2400b080deb1cdfe4e26455b75?source=copy_link)
