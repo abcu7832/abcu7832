@@ -28,6 +28,7 @@
 | [![GAME_PROJECT](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Embedded-SW-GAME-PROJECT-259a8b2400b080f7aa48e1d167635b0c?source=copy_link) | STM32 보드 기반 🎮 게임 프로젝트 (C 언어) |
 | [![Verilog Project](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Verilog-Project-259a8b2400b080e4b04fd411f230a8a7?source=copy_link) | Verilog를 활용한 💡 반도체 설계 프로젝트 |
 | [![AI EXAM SUPERVISOR](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/AI-EXAM-SUPERVISOR-25ba8b2400b080dda526c2b285b25f49?source=copy_link) | Python을 활용한 🤖 OnDevice AI 시험 감독 시스템 |
+| [![512-point Project](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/512-point-FFT-Design-25ba8b2400b08017852fe5b0ab310f04?source=copy_link) | 512-point FFT 💦 설계 프로젝트 |
 | [![RISC-V CPU Project](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/RISC-V-CPU-RV32I-256a8b2400b080eaae8ffffbcf48dab4?source=copy_link) | RISC-V 32bit 🧠 CPU 설계 프로젝트 |
 
 ## 📌 Note
