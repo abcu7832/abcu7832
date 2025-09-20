@@ -13,12 +13,12 @@
   <img src="https://img.shields.io/badge/Verilog-1E90FF?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" />
   <img src="https://img.shields.io/badge/SystemVerilog-7B68EE?style=for-the-badge&logo=verilog&logoColor=white" alt="SystemVerilog" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Language" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FPGA-6A1B9A?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="FPGA" />
+  <img src="https://img.shields.io/badge/Verdi-003366?style=for-the-badge&logo=git&logoColor=white" alt="Verdi" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Verdi-003366?style=for-the-badge&logo=git&logoColor=white" alt="Verdi" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/FPGA-6A1B9A?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="FPGA" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 ## 📂 My Projects
