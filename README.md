@@ -32,6 +32,7 @@
 | [![RISC-V CPU Project](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/RISC-V-CPU-RV32I-256a8b2400b080eaae8ffffbcf48dab4?source=copy_link) | RISC-V 32bit 🧠 CPU 설계 프로젝트 |
 | [![APB_AXI Project](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/AMBA-APB-AXI4-Lite-267a8b2400b080d39838dd60550ee38f?source=copy_link) | AMBA APB & AXI4-Lite 프로젝트 |
 | [![AI반도체네컷](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/AI-277a8b2400b080ef9744e1afa89e5682?source=copy_link) | VGA 프로젝트 (AI 반도체 네컷) |
+| [![layout](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Full-Custom-IC-Design-280a8b2400b08036b088fc37a0352a74?source=copy_link) | Layout(Synopsys Custom Compiler) |
 
 ## 📌 Note
 
