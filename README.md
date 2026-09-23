@@ -47,7 +47,7 @@
 |----------|------|
 | ![00_OJT](https://img.shields.io/badge/00__OJT-181717?style=for-the-badge&logo=github&logoColor=white) | SoC 기반 System Software, ISP, AI, ASIC 분야의 활동  |
 | ![01_ADNR](https://img.shields.io/badge/01__ADNR-181717?style=for-the-badge&logo=github&logoColor=white) | 📷 Noise Reduction |
-| ![02_MIPI_FIRMWARE](https://img.shields.io/badge/02__MIPI__FIRMWARE-181717?style=for-the-badge&logo=github&logoColor=white) | EN683 MIPI 수신 검증용 🔧 펌웨어 |
+| ![02_MIPI_FIRMWARE](https://img.shields.io/badge/02__MIPI__FIRMWARE-181717?style=for-the-badge&logo=github&logoColor=white) | MIPI 수신 검증용 🔧 펌웨어 |
 | ![03_MIPI](https://img.shields.io/badge/03__MIPI-181717?style=for-the-badge&logo=github&logoColor=white) | 📡 MIPI CSI-2 컨트롤러 설계 및 디버깅 요소 연구 |
 
 ## 📌 Note
