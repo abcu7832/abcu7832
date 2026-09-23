@@ -5,7 +5,7 @@
 
 <h3 align="center">👋 ¡Hola! Yo Soy <strong>YounCheol</strong></h3>
 <p align="center">I've majored in Electronic Engineering at Hankuk University of Foreign Studies</p>
-<p align="center">I've enhanced my skill about design engineering through the bootcamp, AI System Semiconduction Design 2nd.</p>
+<p align="center">I've enhanced my skill about design engineering through the bootcamp, AI System Semiconductor Design 2nd.</p>
 <p align="center">I'm experiencing about SoC and ISP in Eyenix.</p>
 
 ## ⚙️ Tech Stack
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/SystemVerilog-7B68EE?style=for-the-badge&logo=verilog&logoColor=white" alt="SystemVerilog" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Language" />
   <img src="https://img.shields.io/badge/FPGA-6A1B9A?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="FPGA" />
-  <img src="https://img.shields.io/badge/Verdi-003366?style=for-the-badge&logo=git&logoColor=white" alt="Verdi" />
+  <img src="https://img.shields.io/badge/Verdi-003366?style=for-the-badge&logo=synopsys&logoColor=white" alt="Verdi" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
@@ -34,6 +34,22 @@
 | [![APB_AXI Project](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/AMBA-APB-AXI4-Lite-267a8b2400b080d39838dd60550ee38f?source=copy_link) | AMBA APB & AXI4-Lite 프로젝트 |
 | [![AI반도체네컷](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/AI-277a8b2400b080ef9744e1afa89e5682?source=copy_link) | VGA 프로젝트 (AI 반도체 네컷) |
 | [![layout](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Full-Custom-IC-Design-280a8b2400b08036b088fc37a0352a74?source=copy_link) | Layout(Synopsys Custom Compiler) |
+
+## 🏢 Eyenix Works
+
+<p align="center">
+  <img src="https://img.shields.io/badge/EN683_SoC-dfbcf7?style=for-the-badge&logoColor=white" alt="EN683" />
+  <img src="https://img.shields.io/badge/MIPI_CSI--2-7B68EE?style=for-the-badge&logoColor=white" alt="MIPI CSI-2" />
+  <img src="https://img.shields.io/badge/ISP-1E90FF?style=for-the-badge&logoColor=white" alt="ISP" />
+  <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Kernel" />
+</p>
+
+| 레포지토리 | 설명 |
+|----------|------|
+| ![00_OJT](https://img.shields.io/badge/00__OJT-181717?style=for-the-badge&logo=github&logoColor=white) ![Private](https://img.shields.io/badge/🔒_Private-555555?style=flat-square) | EN683 SoC 기반 🐧 리눅스 커널 모듈 개발 OJT |
+| ![01_ADNR](https://img.shields.io/badge/01__ADNR-181717?style=for-the-badge&logo=github&logoColor=white) ![Private](https://img.shields.io/badge/🔒_Private-555555?style=flat-square) | 📷 ISP (설명 입력) |
+| ![02_MIPI_FIRMWARE](https://img.shields.io/badge/02__MIPI__FIRMWARE-181717?style=for-the-badge&logo=github&logoColor=white) ![Private](https://img.shields.io/badge/🔒_Private-555555?style=flat-square) | EN683 MIPI 수신 검증용 🔧 펌웨어 |
+| ![03_MIPI](https://img.shields.io/badge/03__MIPI-181717?style=for-the-badge&logo=github&logoColor=white) ![Private](https://img.shields.io/badge/🔒_Private-555555?style=flat-square) | 📡 MIPI CSI-2 컨트롤러 설계 및 디버깅 요소 연구 |
 
 ## 📌 Note
 
