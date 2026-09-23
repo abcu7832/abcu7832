@@ -38,16 +38,15 @@
 ## 🏢 Eyenix Works
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EN683_SoC-dfbcf7?style=for-the-badge&logoColor=white" alt="EN683" />
+  <img src="https://img.shields.io/badge/SoC-dfbcf7?style=for-the-badge&logoColor=white" alt="EN683" />
   <img src="https://img.shields.io/badge/MIPI_CSI--2-7B68EE?style=for-the-badge&logoColor=white" alt="MIPI CSI-2" />
   <img src="https://img.shields.io/badge/ISP-1E90FF?style=for-the-badge&logoColor=white" alt="ISP" />
-  <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Kernel" />
 </p>
 
 | 레포지토리 | 설명 |
 |----------|------|
-| ![00_OJT](https://img.shields.io/badge/00__OJT-181717?style=for-the-badge&logo=github&logoColor=white) ![Private](https://img.shields.io/badge/🔒_Private-555555?style=flat-square) | EN683 SoC 기반 🐧 리눅스 커널 모듈 개발 OJT |
-| ![01_ADNR](https://img.shields.io/badge/01__ADNR-181717?style=for-the-badge&logo=github&logoColor=white) ![Private](https://img.shields.io/badge/🔒_Private-555555?style=flat-square) | 📷 ISP (설명 입력) |
+| ![00_OJT](https://img.shields.io/badge/00__OJT-181717?style=for-the-badge&logo=github&logoColor=white) ![Private](https://img.shields.io/badge/🔒_Private-555555?style=flat-square) | SoC 기반 System Software, ISP, AI, ASIC 분야의 활동  |
+| ![01_ADNR](https://img.shields.io/badge/01__ADNR-181717?style=for-the-badge&logo=github&logoColor=white) ![Private](https://img.shields.io/badge/🔒_Private-555555?style=flat-square) | 📷 Noise Reduction |
 | ![02_MIPI_FIRMWARE](https://img.shields.io/badge/02__MIPI__FIRMWARE-181717?style=for-the-badge&logo=github&logoColor=white) ![Private](https://img.shields.io/badge/🔒_Private-555555?style=flat-square) | EN683 MIPI 수신 검증용 🔧 펌웨어 |
 | ![03_MIPI](https://img.shields.io/badge/03__MIPI-181717?style=for-the-badge&logo=github&logoColor=white) ![Private](https://img.shields.io/badge/🔒_Private-555555?style=flat-square) | 📡 MIPI CSI-2 컨트롤러 설계 및 디버깅 요소 연구 |
 
